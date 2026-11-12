@@ -1,26 +1,35 @@
 {
- "actualizado": "2026-11-12T09:20:51+01:00",
+ "actualizado": "2026-11-12T10:47:08+01:00",
  "fuentes": {
-  "Andalucía": "2026-11-11T23:50:01+01:00",
-  "Aragón": "2026-11-10T23:50:01+01:00",
-  "Asturias": "2026-11-10T23:50:01+01:00",
-  "Illes Balears": "2026-11-11T11:29:36+01:00",
-  "Canarias": "2026-11-12T08:22:46+01:00",
-  "Cantabria": "2026-11-11T11:00:09+01:00",
-  "Castilla y León": "2026-11-10T22:07:41+01:00",
-  "Castilla-La Mancha": "2026-11-10T23:50:01+01:00",
-  "Cataluña": "2026-11-11T18:32:42+01:00",
-  "Extremadura": "2026-11-11T23:50:01+01:00",
-  "Galicia": "2026-11-10T11:54:41+01:00",
-  "Comunidad de Madrid": "2026-11-11T23:50:01+01:00",
-  "Región de Murcia": "2026-11-10T23:50:01+01:00",
-  "Navarra": "2026-11-12T04:59:00+01:00",
-  "País Vasco": "2026-11-11T11:29:36+01:00",
-  "La Rioja": "2026-11-11T11:29:36+01:00",
-  "Comunitat Valenciana": "2026-11-11T11:29:36+01:00"
+  "Andalucía": "2026-11-11T22:50:01+00:00",
+  "Aragón": "2026-11-11T22:50:01+00:00",
+  "Asturias": "2026-11-12T09:27:14+00:00",
+  "Illes Balears": "2026-11-11T22:50:01+00:00",
+  "Canarias": "2026-11-12T07:22:46+00:00",
+  "Cantabria": "2026-11-12T09:34:10+00:00",
+  "Castilla y León": "2026-11-11T22:50:01+00:00",
+  "Castilla-La Mancha": "2026-11-11T22:50:01+00:00",
+  "Cataluña": "2026-11-12T09:32:37+00:00",
+  "Extremadura": "2026-11-11T22:50:01+00:00",
+  "Galicia": "2026-11-12T09:27:14+00:00",
+  "Comunidad de Madrid": "2026-11-11T22:50:01+00:00",
+  "Región de Murcia": "2026-11-11T22:50:01+00:00",
+  "Navarra": "2026-11-12T03:59:00+00:00",
+  "País Vasco": "2026-11-12T07:34:24+00:00",
+  "La Rioja": "2026-11-11T22:50:01+00:00",
+  "Comunitat Valenciana": "2026-11-11T22:50:01+00:00"
  },
  "avisos": [
   {
+   "region": "Andalucía",
+   "zona": "Costa granadina",
+   "fenomeno": "Vientos",
+   "nivel": "amarillo",
+   "inicio": "2026-11-11T18:00:00+01:00",
+   "fin": "2026-11-12T14:59:00+01:00"
+  },
+  {
+   "region": "Andalucía",
    "zona": "Guadix y Baza",
    "fenomeno": "Vientos",
    "nivel": "amarillo",
@@ -28,6 +37,7 @@
    "fin": "2026-11-12T23:59:00+01:00"
   },
   {
+   "region": "Andalucía",
    "zona": "Levante almeriense",
    "fenomeno": "Vientos",
    "nivel": "amarillo",
@@ -35,6 +45,23 @@
    "fin": "2026-11-12T23:59:00+01:00"
   },
   {
+   "region": "Andalucía",
+   "zona": "Nacimiento y Campo de Tabernas",
+   "fenomeno": "Vientos",
+   "nivel": "amarillo",
+   "inicio": "2026-11-11T18:00:00+01:00",
+   "fin": "2026-11-12T23:59:00+01:00"
+  },
+  {
+   "region": "Castilla-La Mancha",
+   "zona": "Parameras de Molina",
+   "fenomeno": "Vientos",
+   "nivel": "amarillo",
+   "inicio": "2026-11-11T18:00:00+01:00",
+   "fin": "2026-11-12T14:59:00+01:00"
+  },
+  {
+   "region": "Andalucía",
    "zona": "Poniente y Almería Capital",
    "fenomeno": "Vientos",
    "nivel": "amarillo",
@@ -42,6 +69,31 @@
    "fin": "2026-11-12T23:59:00+01:00"
   },
   {
+   "region": "Región de Murcia",
+   "zona": "Altiplano de Murcia",
+   "fenomeno": "Vientos",
+   "nivel": "amarillo",
+   "inicio": "2026-11-11T21:00:00+01:00",
+   "fin": "2026-11-12T14:59:00+01:00"
+  },
+  {
+   "region": "Región de Murcia",
+   "zona": "Campo de Cartagena y Mazarrón",
+   "fenomeno": "Vientos",
+   "nivel": "amarillo",
+   "inicio": "2026-11-11T21:00:00+01:00",
+   "fin": "2026-11-12T14:59:00+01:00"
+  },
+  {
+   "region": "Castilla-La Mancha",
+   "zona": "Hellín y Almansa",
+   "fenomeno": "Vientos",
+   "nivel": "amarillo",
+   "inicio": "2026-11-11T21:00:00+01:00",
+   "fin": "2026-11-12T14:59:00+01:00"
+  },
+  {
+   "region": "Comunitat Valenciana",
    "zona": "Interior de Alicante",
    "fenomeno": "Vientos",
    "nivel": "amarillo",
@@ -49,6 +101,23 @@
    "fin": "2026-11-12T14:59:00+01:00"
   },
   {
+   "region": "Comunitat Valenciana",
+   "zona": "Interior norte de Castellón",
+   "fenomeno": "Vientos",
+   "nivel": "amarillo",
+   "inicio": "2026-11-11T21:00:00+01:00",
+   "fin": "2026-11-12T14:59:00+01:00"
+  },
+  {
+   "region": "Castilla-La Mancha",
+   "zona": "La Mancha albaceteña",
+   "fenomeno": "Vientos",
+   "nivel": "amarillo",
+   "inicio": "2026-11-11T21:00:00+01:00",
+   "fin": "2026-11-12T14:59:00+01:00"
+  },
+  {
+   "region": "Comunitat Valenciana",
    "zona": "Litoral norte de Alicante",
    "fenomeno": "Vientos",
    "nivel": "amarillo",
@@ -56,6 +125,47 @@
    "fin": "2026-11-12T14:59:00+01:00"
   },
   {
+   "region": "Castilla-La Mancha",
+   "zona": "Serranía de Cuenca",
+   "fenomeno": "Vientos",
+   "nivel": "amarillo",
+   "inicio": "2026-11-11T21:00:00+01:00",
+   "fin": "2026-11-12T14:59:00+01:00"
+  },
+  {
+   "region": "Región de Murcia",
+   "zona": "Valle del Guadalentín, Lorca y Águilas",
+   "fenomeno": "Vientos",
+   "nivel": "amarillo",
+   "inicio": "2026-11-11T21:00:00+01:00",
+   "fin": "2026-11-12T14:59:00+01:00"
+  },
+  {
+   "region": "Región de Murcia",
+   "zona": "Vega del Segura",
+   "fenomeno": "Vientos",
+   "nivel": "amarillo",
+   "inicio": "2026-11-11T21:00:00+01:00",
+   "fin": "2026-11-12T14:59:00+01:00"
+  },
+  {
+   "region": "Aragón",
+   "zona": "Albarracín y Jiloca",
+   "fenomeno": "Vientos",
+   "nivel": "amarillo",
+   "inicio": "2026-11-11T23:00:00+01:00",
+   "fin": "2026-11-12T14:59:00+01:00"
+  },
+  {
+   "region": "Castilla-La Mancha",
+   "zona": "Alcaraz y Segura",
+   "fenomeno": "Vientos",
+   "nivel": "naranja",
+   "inicio": "2026-11-12T00:00:00+01:00",
+   "fin": "2026-11-12T17:59:00+01:00"
+  },
+  {
+   "region": "Región de Murcia",
    "zona": "Campo de Cartagena y Mazarrón",
    "fenomeno": "Costeros",
    "nivel": "amarillo",
@@ -63,13 +173,7 @@
    "fin": "2026-11-12T17:59:00+01:00"
   },
   {
-   "zona": "Campo de Cartagena y Mazarrón",
-   "fenomeno": "Vientos",
-   "nivel": "amarillo",
-   "inicio": "2026-11-12T00:00:00+01:00",
-   "fin": "2026-11-12T14:59:00+01:00"
-  },
-  {
+   "region": "Andalucía",
    "zona": "Capital y Montes de Jaén",
    "fenomeno": "Vientos",
    "nivel": "amarillo",
@@ -77,20 +181,23 @@
    "fin": "2026-11-12T14:59:00+01:00"
   },
   {
-   "zona": "Centro de Huesca",
-   "fenomeno": "Lluvias",
-   "nivel": "amarillo",
-   "inicio": "2026-11-12T00:00:00+01:00",
-   "fin": "2026-11-12T11:59:00+01:00"
-  },
-  {
-   "zona": "Centro de Huesca",
+   "region": "Andalucía",
+   "zona": "Cazorla y Segura",
    "fenomeno": "Vientos",
    "nivel": "amarillo",
    "inicio": "2026-11-12T00:00:00+01:00",
-   "fin": "2026-11-12T11:59:00+01:00"
+   "fin": "2026-11-12T23:59:00+01:00"
   },
   {
+   "region": "Andalucía",
+   "zona": "Costa granadina",
+   "fenomeno": "Costeros",
+   "nivel": "amarillo",
+   "inicio": "2026-11-12T00:00:00+01:00",
+   "fin": "2026-11-12T16:59:00+01:00"
+  },
+  {
+   "region": "Andalucía",
    "zona": "Cuenca del Genil",
    "fenomeno": "Vientos",
    "nivel": "amarillo",
@@ -98,13 +205,15 @@
    "fin": "2026-11-12T14:59:00+01:00"
   },
   {
-   "zona": "La Mancha albaceteña",
+   "region": "Aragón",
+   "zona": "Ibérica zaragozana",
    "fenomeno": "Vientos",
    "nivel": "amarillo",
    "inicio": "2026-11-12T00:00:00+01:00",
    "fin": "2026-11-12T14:59:00+01:00"
   },
   {
+   "region": "Comunitat Valenciana",
    "zona": "Litoral norte de Alicante",
    "fenomeno": "Costeros",
    "nivel": "amarillo",
@@ -112,13 +221,15 @@
    "fin": "2026-11-12T23:59:00+01:00"
   },
   {
-   "zona": "Litoral norte de Valencia",
+   "region": "Comunitat Valenciana",
+   "zona": "Litoral norte de Castellón",
    "fenomeno": "Costeros",
    "nivel": "amarillo",
    "inicio": "2026-11-12T00:00:00+01:00",
    "fin": "2026-11-12T23:59:00+01:00"
   },
   {
+   "region": "Comunitat Valenciana",
    "zona": "Litoral norte de Valencia",
    "fenomeno": "Vientos",
    "nivel": "amarillo",
@@ -126,6 +237,15 @@
    "fin": "2026-11-12T14:59:00+01:00"
   },
   {
+   "region": "Comunitat Valenciana",
+   "zona": "Litoral norte de Valencia",
+   "fenomeno": "Costeros",
+   "nivel": "amarillo",
+   "inicio": "2026-11-12T00:00:00+01:00",
+   "fin": "2026-11-12T23:59:00+01:00"
+  },
+  {
+   "region": "Comunitat Valenciana",
    "zona": "Litoral sur de Alicante",
    "fenomeno": "Costeros",
    "nivel": "amarillo",
@@ -133,6 +253,7 @@
    "fin": "2026-11-12T23:59:00+01:00"
   },
   {
+   "region": "Comunitat Valenciana",
    "zona": "Litoral sur de Castellón",
    "fenomeno": "Costeros",
    "nivel": "amarillo",
@@ -140,13 +261,7 @@
    "fin": "2026-11-12T23:59:00+01:00"
   },
   {
-   "zona": "Litoral sur de Valencia",
-   "fenomeno": "Costeros",
-   "nivel": "amarillo",
-   "inicio": "2026-11-12T00:00:00+01:00",
-   "fin": "2026-11-12T23:59:00+01:00"
-  },
-  {
+   "region": "Comunitat Valenciana",
    "zona": "Litoral sur de Valencia",
    "fenomeno": "Vientos",
    "nivel": "amarillo",
@@ -154,27 +269,39 @@
    "fin": "2026-11-12T14:59:00+01:00"
   },
   {
-   "zona": "Pirineo oscense",
-   "fenomeno": "Lluvias",
+   "region": "Comunitat Valenciana",
+   "zona": "Litoral sur de Valencia",
+   "fenomeno": "Costeros",
+   "nivel": "amarillo",
+   "inicio": "2026-11-12T00:00:00+01:00",
+   "fin": "2026-11-12T23:59:00+01:00"
+  },
+  {
+   "region": "Andalucía",
+   "zona": "Nevada y Alpujarras",
+   "fenomeno": "Vientos",
+   "nivel": "amarillo",
+   "inicio": "2026-11-12T00:00:00+01:00",
+   "fin": "2026-11-12T23:59:00+01:00"
+  },
+  {
+   "region": "Región de Murcia",
+   "zona": "Noroeste de Murcia",
+   "fenomeno": "Vientos",
    "nivel": "naranja",
    "inicio": "2026-11-12T00:00:00+01:00",
-   "fin": "2026-11-12T11:59:00+01:00"
+   "fin": "2026-11-12T17:59:00+01:00"
   },
   {
-   "zona": "Pirineo oscense",
+   "region": "Andalucía",
+   "zona": "Valle del Almanzora y Los Vélez",
    "fenomeno": "Vientos",
-   "nivel": "amarillo",
+   "nivel": "naranja",
    "inicio": "2026-11-12T00:00:00+01:00",
-   "fin": "2026-11-12T11:59:00+01:00"
+   "fin": "2026-11-12T17:59:00+01:00"
   },
   {
-   "zona": "Ribera del Ebro de Zaragoza",
-   "fenomeno": "Vientos",
-   "nivel": "amarillo",
-   "inicio": "2026-11-12T00:00:00+01:00",
-   "fin": "2026-11-12T11:59:00+01:00"
-  },
-  {
+   "region": "Región de Murcia",
    "zona": "Valle del Guadalentín, Lorca y Águilas",
    "fenomeno": "Costeros",
    "nivel": "amarillo",
@@ -182,20 +309,15 @@
    "fin": "2026-11-12T17:59:00+01:00"
   },
   {
-   "zona": "Valle del Guadalentín, Lorca y Águilas",
+   "region": "Andalucía",
+   "zona": "Valle del Guadalquivir de Jaén",
    "fenomeno": "Vientos",
    "nivel": "amarillo",
    "inicio": "2026-11-12T00:00:00+01:00",
    "fin": "2026-11-12T14:59:00+01:00"
   },
   {
-   "zona": "Vega del Segura",
-   "fenomeno": "Vientos",
-   "nivel": "amarillo",
-   "inicio": "2026-11-12T00:00:00+01:00",
-   "fin": "2026-11-12T14:59:00+01:00"
-  },
-  {
+   "region": "Andalucía",
    "zona": "Levante almeriense",
    "fenomeno": "Costeros",
    "nivel": "naranja",
@@ -203,6 +325,7 @@
    "fin": "2026-11-12T13:59:00+01:00"
   },
   {
+   "region": "Andalucía",
    "zona": "Poniente y Almería Capital",
    "fenomeno": "Costeros",
    "nivel": "naranja",
@@ -210,6 +333,23 @@
    "fin": "2026-11-12T13:59:00+01:00"
   },
   {
+   "region": "Illes Balears",
+   "zona": "Ibiza y Formentera",
+   "fenomeno": "Vientos",
+   "nivel": "amarillo",
+   "inicio": "2026-11-12T03:00:00+01:00",
+   "fin": "2026-11-12T23:59:00+01:00"
+  },
+  {
+   "region": "Illes Balears",
+   "zona": "Ibiza y Formentera",
+   "fenomeno": "Costeros",
+   "nivel": "amarillo",
+   "inicio": "2026-11-12T03:00:00+01:00",
+   "fin": "2026-11-12T23:59:00+01:00"
+  },
+  {
+   "region": "Illes Balears",
    "zona": "Interior de Mallorca",
    "fenomeno": "Vientos",
    "nivel": "amarillo",
@@ -217,6 +357,7 @@
    "fin": "2026-11-12T23:59:00+01:00"
   },
   {
+   "region": "Illes Balears",
    "zona": "Levante mallorquín",
    "fenomeno": "Costeros",
    "nivel": "naranja",
@@ -224,6 +365,7 @@
    "fin": "2026-11-12T23:59:00+01:00"
   },
   {
+   "region": "Illes Balears",
    "zona": "Levante mallorquín",
    "fenomeno": "Vientos",
    "nivel": "amarillo",
@@ -231,13 +373,23 @@
    "fin": "2026-11-12T23:59:00+01:00"
   },
   {
-   "zona": "Norte y nordeste de Mallorca",
+   "region": "Illes Balears",
+   "zona": "Menorca",
    "fenomeno": "Costeros",
+   "nivel": "naranja",
+   "inicio": "2026-11-12T03:00:00+01:00",
+   "fin": "2026-11-12T23:59:00+01:00"
+  },
+  {
+   "region": "Illes Balears",
+   "zona": "Menorca",
+   "fenomeno": "Vientos",
    "nivel": "amarillo",
    "inicio": "2026-11-12T03:00:00+01:00",
    "fin": "2026-11-12T23:59:00+01:00"
   },
   {
+   "region": "Illes Balears",
    "zona": "Norte y nordeste de Mallorca",
    "fenomeno": "Vientos",
    "nivel": "amarillo",
@@ -245,6 +397,31 @@
    "fin": "2026-11-12T23:59:00+01:00"
   },
   {
+   "region": "Illes Balears",
+   "zona": "Norte y nordeste de Mallorca",
+   "fenomeno": "Costeros",
+   "nivel": "amarillo",
+   "inicio": "2026-11-12T03:00:00+01:00",
+   "fin": "2026-11-12T23:59:00+01:00"
+  },
+  {
+   "region": "Illes Balears",
+   "zona": "Sierra Tramontana",
+   "fenomeno": "Costeros",
+   "nivel": "naranja",
+   "inicio": "2026-11-12T03:00:00+01:00",
+   "fin": "2026-11-12T23:59:00+01:00"
+  },
+  {
+   "region": "Illes Balears",
+   "zona": "Sierra Tramontana",
+   "fenomeno": "Vientos",
+   "nivel": "amarillo",
+   "inicio": "2026-11-12T03:00:00+01:00",
+   "fin": "2026-11-12T23:59:00+01:00"
+  },
+  {
+   "region": "Illes Balears",
    "zona": "Sur de Mallorca",
    "fenomeno": "Costeros",
    "nivel": "naranja",
@@ -252,6 +429,7 @@
    "fin": "2026-11-12T23:59:00+01:00"
   },
   {
+   "region": "Illes Balears",
    "zona": "Sur de Mallorca",
    "fenomeno": "Vientos",
    "nivel": "amarillo",
@@ -259,34 +437,39 @@
    "fin": "2026-11-12T23:59:00+01:00"
   },
   {
-   "zona": "Litoral de Barcelona",
-   "fenomeno": "Costeros",
+   "region": "Aragón",
+   "zona": "Bajo Aragón de Teruel",
+   "fenomeno": "Vientos",
    "nivel": "amarillo",
    "inicio": "2026-11-12T06:00:00+01:00",
-   "fin": "2026-11-12T23:59:00+01:00"
+   "fin": "2026-11-12T11:59:00+01:00"
   },
   {
-   "zona": "Litoral norte de Tarragona",
-   "fenomeno": "Costeros",
+   "region": "Aragón",
+   "zona": "Ribera del Ebro de Zaragoza",
+   "fenomeno": "Vientos",
    "nivel": "amarillo",
    "inicio": "2026-11-12T06:00:00+01:00",
-   "fin": "2026-11-12T23:59:00+01:00"
+   "fin": "2026-11-12T11:59:00+01:00"
   },
   {
-   "zona": "Litoral sur de Tarragona",
-   "fenomeno": "Costeros",
+   "region": "Aragón",
+   "zona": "Sur de Huesca",
+   "fenomeno": "Vientos",
    "nivel": "amarillo",
    "inicio": "2026-11-12T06:00:00+01:00",
-   "fin": "2026-11-12T23:59:00+01:00"
+   "fin": "2026-11-12T11:59:00+01:00"
   },
   {
-   "zona": "Depresión central de Lleida",
+   "region": "Aragón",
+   "zona": "Gúdar y Maestrazgo",
    "fenomeno": "Vientos",
    "nivel": "amarillo",
    "inicio": "2026-11-12T07:00:00+01:00",
    "fin": "2026-11-12T14:59:00+01:00"
   },
   {
+   "region": "Comunitat Valenciana",
    "zona": "Interior norte de Valencia",
    "fenomeno": "Vientos",
    "nivel": "amarillo",
@@ -294,6 +477,15 @@
    "fin": "2026-11-12T14:59:00+01:00"
   },
   {
+   "region": "Comunitat Valenciana",
+   "zona": "Interior sur de Castellón",
+   "fenomeno": "Vientos",
+   "nivel": "amarillo",
+   "inicio": "2026-11-12T07:00:00+01:00",
+   "fin": "2026-11-12T14:59:00+01:00"
+  },
+  {
+   "region": "Comunitat Valenciana",
    "zona": "Interior sur de Valencia",
    "fenomeno": "Vientos",
    "nivel": "amarillo",
@@ -301,41 +493,207 @@
    "fin": "2026-11-12T14:59:00+01:00"
   },
   {
+   "region": "País Vasco",
+   "zona": "Bizkaia litoral",
+   "fenomeno": "Costeros",
+   "nivel": "amarillo",
+   "inicio": "2026-11-12T08:00:00+01:00",
+   "fin": "2026-11-12T13:59:00+01:00"
+  },
+  {
+   "region": "País Vasco",
+   "zona": "Gipuzkoa litoral",
+   "fenomeno": "Costeros",
+   "nivel": "amarillo",
+   "inicio": "2026-11-12T08:00:00+01:00",
+   "fin": "2026-11-12T13:59:00+01:00"
+  },
+  {
+   "region": "Cataluña",
+   "zona": "Ampurdán",
+   "fenomeno": "Costeros",
+   "nivel": "amarillo",
+   "inicio": "2026-11-12T10:00:00+01:00",
+   "fin": "2026-11-12T17:59:00+01:00"
+  },
+  {
+   "region": "Cataluña",
+   "zona": "Depresión central de Barcelona",
+   "fenomeno": "Vientos",
+   "nivel": "amarillo",
+   "inicio": "2026-11-12T10:00:00+01:00",
+   "fin": "2026-11-12T14:59:00+01:00"
+  },
+  {
+   "region": "Cataluña",
+   "zona": "Depresión central de Lleida",
+   "fenomeno": "Vientos",
+   "nivel": "amarillo",
+   "inicio": "2026-11-12T10:00:00+01:00",
+   "fin": "2026-11-12T14:59:00+01:00"
+  },
+  {
+   "region": "Cataluña",
+   "zona": "Depresión central de Tarragona",
+   "fenomeno": "Vientos",
+   "nivel": "amarillo",
+   "inicio": "2026-11-12T10:00:00+01:00",
+   "fin": "2026-11-12T14:59:00+01:00"
+  },
+  {
+   "region": "Galicia",
+   "zona": "Interior de Pontevedra",
+   "fenomeno": "Lluvias",
+   "nivel": "amarillo",
+   "inicio": "2026-11-12T10:00:00+01:00",
+   "fin": "2026-11-13T07:59:00+01:00"
+  },
+  {
+   "region": "Cantabria",
+   "zona": "Litoral cántabro",
+   "fenomeno": "Costeros",
+   "nivel": "amarillo",
+   "inicio": "2026-11-12T10:00:00+01:00",
+   "fin": "2026-11-12T11:59:00+01:00"
+  },
+  {
+   "region": "Cataluña",
+   "zona": "Litoral de Barcelona",
+   "fenomeno": "Costeros",
+   "nivel": "amarillo",
+   "inicio": "2026-11-12T10:00:00+01:00",
+   "fin": "2026-11-13T07:59:00+01:00"
+  },
+  {
+   "region": "Cataluña",
    "zona": "Litoral de Barcelona",
    "fenomeno": "Vientos",
    "nivel": "amarillo",
-   "inicio": "2026-11-12T07:00:00+01:00",
+   "inicio": "2026-11-12T10:00:00+01:00",
    "fin": "2026-11-12T14:59:00+01:00"
   },
   {
+   "region": "Cataluña",
+   "zona": "Litoral norte de Tarragona",
+   "fenomeno": "Costeros",
+   "nivel": "amarillo",
+   "inicio": "2026-11-12T10:00:00+01:00",
+   "fin": "2026-11-13T07:59:00+01:00"
+  },
+  {
+   "region": "Cataluña",
    "zona": "Litoral norte de Tarragona",
    "fenomeno": "Vientos",
    "nivel": "amarillo",
-   "inicio": "2026-11-12T07:00:00+01:00",
+   "inicio": "2026-11-12T10:00:00+01:00",
    "fin": "2026-11-12T14:59:00+01:00"
   },
   {
+   "region": "Cataluña",
+   "zona": "Litoral sur de Girona",
+   "fenomeno": "Vientos",
+   "nivel": "amarillo",
+   "inicio": "2026-11-12T10:00:00+01:00",
+   "fin": "2026-11-12T14:59:00+01:00"
+  },
+  {
+   "region": "Cataluña",
+   "zona": "Litoral sur de Girona",
+   "fenomeno": "Costeros",
+   "nivel": "amarillo",
+   "inicio": "2026-11-12T10:00:00+01:00",
+   "fin": "2026-11-12T23:59:00+01:00"
+  },
+  {
+   "region": "Cataluña",
+   "zona": "Litoral sur de Tarragona",
+   "fenomeno": "Costeros",
+   "nivel": "amarillo",
+   "inicio": "2026-11-12T10:00:00+01:00",
+   "fin": "2026-11-13T07:59:00+01:00"
+  },
+  {
+   "region": "Cataluña",
    "zona": "Litoral sur de Tarragona",
    "fenomeno": "Vientos",
    "nivel": "amarillo",
-   "inicio": "2026-11-12T07:00:00+01:00",
+   "inicio": "2026-11-12T10:00:00+01:00",
    "fin": "2026-11-12T14:59:00+01:00"
   },
   {
+   "region": "Galicia",
+   "zona": "Miño de Pontevedra",
+   "fenomeno": "Lluvias",
+   "nivel": "amarillo",
+   "inicio": "2026-11-12T10:00:00+01:00",
+   "fin": "2026-11-13T07:59:00+01:00"
+  },
+  {
+   "region": "Galicia",
+   "zona": "Oeste de A Coruña",
+   "fenomeno": "Lluvias",
+   "nivel": "amarillo",
+   "inicio": "2026-11-12T10:00:00+01:00",
+   "fin": "2026-11-12T23:59:00+01:00"
+  },
+  {
+   "region": "Cataluña",
    "zona": "Prelitoral de Barcelona",
    "fenomeno": "Vientos",
    "nivel": "amarillo",
-   "inicio": "2026-11-12T07:00:00+01:00",
+   "inicio": "2026-11-12T10:00:00+01:00",
    "fin": "2026-11-12T14:59:00+01:00"
   },
   {
+   "region": "Cataluña",
    "zona": "Prelitoral de Girona",
    "fenomeno": "Vientos",
    "nivel": "amarillo",
-   "inicio": "2026-11-12T07:00:00+01:00",
+   "inicio": "2026-11-12T10:00:00+01:00",
    "fin": "2026-11-12T14:59:00+01:00"
   },
   {
+   "region": "Cataluña",
+   "zona": "Prelitoral norte de Tarragona",
+   "fenomeno": "Vientos",
+   "nivel": "amarillo",
+   "inicio": "2026-11-12T10:00:00+01:00",
+   "fin": "2026-11-12T14:59:00+01:00"
+  },
+  {
+   "region": "Cataluña",
+   "zona": "Prelitoral sur de Tarragona",
+   "fenomeno": "Vientos",
+   "nivel": "amarillo",
+   "inicio": "2026-11-12T10:00:00+01:00",
+   "fin": "2026-11-12T14:59:00+01:00"
+  },
+  {
+   "region": "Galicia",
+   "zona": "Rias Baixas",
+   "fenomeno": "Lluvias",
+   "nivel": "amarillo",
+   "inicio": "2026-11-12T10:00:00+01:00",
+   "fin": "2026-11-13T07:59:00+01:00"
+  },
+  {
+   "region": "Galicia",
+   "zona": "Sur de Ourense",
+   "fenomeno": "Lluvias",
+   "nivel": "amarillo",
+   "inicio": "2026-11-12T10:00:00+01:00",
+   "fin": "2026-11-13T07:59:00+01:00"
+  },
+  {
+   "region": "Galicia",
+   "zona": "Suroeste de A Coruña",
+   "fenomeno": "Lluvias",
+   "nivel": "amarillo",
+   "inicio": "2026-11-12T10:00:00+01:00",
+   "fin": "2026-11-13T07:59:00+01:00"
+  },
+  {
+   "region": "Andalucía",
    "zona": "Levante almeriense",
    "fenomeno": "Costeros",
    "nivel": "amarillo",
@@ -343,6 +701,7 @@
    "fin": "2026-11-12T23:59:00+01:00"
   },
   {
+   "region": "Andalucía",
    "zona": "Poniente y Almería Capital",
    "fenomeno": "Costeros",
    "nivel": "amarillo",
@@ -350,20 +709,103 @@
    "fin": "2026-11-12T23:59:00+01:00"
   },
   {
+   "region": "Cantabria",
    "zona": "Litoral cántabro",
+   "fenomeno": "Lluvias",
+   "nivel": "amarillo",
+   "inicio": "2026-11-12T15:00:00+01:00",
+   "fin": "2026-11-13T07:59:00+01:00"
+  },
+  {
+   "region": "Asturias",
+   "zona": "Litoral oriental asturiano",
    "fenomeno": "Lluvias",
    "nivel": "amarillo",
    "inicio": "2026-11-12T15:00:00+01:00",
    "fin": "2026-11-12T23:59:00+01:00"
   },
   {
-   "zona": "Levante mallorquín",
+   "region": "Galicia",
+   "zona": "Interior de A Coruña",
+   "fenomeno": "Lluvias",
+   "nivel": "amarillo",
+   "inicio": "2026-11-12T17:00:00+01:00",
+   "fin": "2026-11-12T23:59:00+01:00"
+  },
+  {
+   "region": "Castilla-La Mancha",
+   "zona": "Alcaraz y Segura",
+   "fenomeno": "Vientos",
+   "nivel": "amarillo",
+   "inicio": "2026-11-12T18:00:00+01:00",
+   "fin": "2026-11-12T23:59:00+01:00"
+  },
+  {
+   "region": "Región de Murcia",
+   "zona": "Noroeste de Murcia",
+   "fenomeno": "Vientos",
+   "nivel": "amarillo",
+   "inicio": "2026-11-12T18:00:00+01:00",
+   "fin": "2026-11-12T23:59:00+01:00"
+  },
+  {
+   "region": "Andalucía",
+   "zona": "Valle del Almanzora y Los Vélez",
+   "fenomeno": "Vientos",
+   "nivel": "amarillo",
+   "inicio": "2026-11-12T18:00:00+01:00",
+   "fin": "2026-11-12T23:59:00+01:00"
+  },
+  {
+   "region": "Galicia",
+   "zona": "Interior de A Coruña",
+   "fenomeno": "Lluvias",
+   "nivel": "amarillo",
+   "inicio": "2026-11-12T19:00:00+01:00",
+   "fin": "2026-11-13T07:59:00+01:00"
+  },
+  {
+   "region": "Galicia",
+   "zona": "Miño de Ourense",
+   "fenomeno": "Lluvias",
+   "nivel": "amarillo",
+   "inicio": "2026-11-12T19:00:00+01:00",
+   "fin": "2026-11-13T07:59:00+01:00"
+  },
+  {
+   "region": "Galicia",
+   "zona": "Noroeste de Ourense",
+   "fenomeno": "Lluvias",
+   "nivel": "amarillo",
+   "inicio": "2026-11-12T19:00:00+01:00",
+   "fin": "2026-11-13T07:59:00+01:00"
+  },
+  {
+   "region": "Galicia",
+   "zona": "Oeste de A Coruña",
+   "fenomeno": "Lluvias",
+   "nivel": "amarillo",
+   "inicio": "2026-11-12T19:00:00+01:00",
+   "fin": "2026-11-13T07:59:00+01:00"
+  },
+  {
+   "region": "Illes Balears",
+   "zona": "Ibiza y Formentera",
+   "fenomeno": "Vientos",
+   "nivel": "amarillo",
+   "inicio": "2026-11-13T00:00:00+01:00",
+   "fin": "2026-11-13T07:59:00+01:00"
+  },
+  {
+   "region": "Illes Balears",
+   "zona": "Ibiza y Formentera",
    "fenomeno": "Costeros",
    "nivel": "amarillo",
    "inicio": "2026-11-13T00:00:00+01:00",
    "fin": "2026-11-13T10:59:00+01:00"
   },
   {
+   "region": "Illes Balears",
    "zona": "Levante mallorquín",
    "fenomeno": "Vientos",
    "nivel": "amarillo",
@@ -371,13 +813,31 @@
    "fin": "2026-11-13T07:59:00+01:00"
   },
   {
-   "zona": "Norte y nordeste de Mallorca",
+   "region": "Illes Balears",
+   "zona": "Levante mallorquín",
    "fenomeno": "Costeros",
    "nivel": "amarillo",
    "inicio": "2026-11-13T00:00:00+01:00",
    "fin": "2026-11-13T10:59:00+01:00"
   },
   {
+   "region": "Illes Balears",
+   "zona": "Menorca",
+   "fenomeno": "Vientos",
+   "nivel": "amarillo",
+   "inicio": "2026-11-13T00:00:00+01:00",
+   "fin": "2026-11-13T03:59:00+01:00"
+  },
+  {
+   "region": "Illes Balears",
+   "zona": "Menorca",
+   "fenomeno": "Costeros",
+   "nivel": "amarillo",
+   "inicio": "2026-11-13T00:00:00+01:00",
+   "fin": "2026-11-13T10:59:00+01:00"
+  },
+  {
+   "region": "Illes Balears",
    "zona": "Norte y nordeste de Mallorca",
    "fenomeno": "Vientos",
    "nivel": "amarillo",
@@ -385,6 +845,31 @@
    "fin": "2026-11-13T07:59:00+01:00"
   },
   {
+   "region": "Illes Balears",
+   "zona": "Norte y nordeste de Mallorca",
+   "fenomeno": "Costeros",
+   "nivel": "amarillo",
+   "inicio": "2026-11-13T00:00:00+01:00",
+   "fin": "2026-11-13T10:59:00+01:00"
+  },
+  {
+   "region": "Illes Balears",
+   "zona": "Sierra Tramontana",
+   "fenomeno": "Costeros",
+   "nivel": "naranja",
+   "inicio": "2026-11-13T00:00:00+01:00",
+   "fin": "2026-11-13T05:59:00+01:00"
+  },
+  {
+   "region": "Illes Balears",
+   "zona": "Sierra Tramontana",
+   "fenomeno": "Vientos",
+   "nivel": "amarillo",
+   "inicio": "2026-11-13T00:00:00+01:00",
+   "fin": "2026-11-13T07:59:00+01:00"
+  },
+  {
+   "region": "Illes Balears",
    "zona": "Sur de Mallorca",
    "fenomeno": "Costeros",
    "nivel": "naranja",
@@ -392,6 +877,23 @@
    "fin": "2026-11-13T05:59:00+01:00"
   },
   {
+   "region": "Cataluña",
+   "zona": "Ampurdán",
+   "fenomeno": "Costeros",
+   "nivel": "amarillo",
+   "inicio": "2026-11-13T02:00:00+01:00",
+   "fin": "2026-11-13T11:59:00+01:00"
+  },
+  {
+   "region": "Illes Balears",
+   "zona": "Sierra Tramontana",
+   "fenomeno": "Costeros",
+   "nivel": "amarillo",
+   "inicio": "2026-11-13T06:00:00+01:00",
+   "fin": "2026-11-13T10:59:00+01:00"
+  },
+  {
+   "region": "Illes Balears",
    "zona": "Sur de Mallorca",
    "fenomeno": "Costeros",
    "nivel": "amarillo",
