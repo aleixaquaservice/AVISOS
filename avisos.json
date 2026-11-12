@@ -1,13 +1,13 @@
 {
- "actualizado": "2026-11-12T18:17:06+01:00",
+ "actualizado": "2026-11-12T20:16:42+01:00",
  "fuentes": {
   "Andalucía": "2026-11-11T22:50:01+00:00",
   "Aragón": "2026-11-11T22:50:01+00:00",
   "Asturias": "2026-11-12T09:27:14+00:00",
   "Illes Balears": "2026-11-12T09:50:50+00:00",
   "Canarias": "2026-11-12T07:22:46+00:00",
-  "Cantabria": "2026-11-12T17:11:20+00:00",
-  "Castilla y León": "2026-11-11T22:50:01+00:00",
+  "Cantabria": "2026-11-12T17:24:48+00:00",
+  "Castilla y León": "2026-11-12T17:16:11+00:00",
   "Castilla-La Mancha": "2026-11-11T22:50:01+00:00",
   "Cataluña": "2026-11-12T09:32:37+00:00",
   "Extremadura": "2026-11-11T22:50:01+00:00",
@@ -309,6 +309,14 @@
    "fin": "2026-11-13T07:59:00+01:00"
   },
   {
+   "region": "Cantabria",
+   "zona": "Litoral cántabro",
+   "fenomeno": "Lluvias",
+   "nivel": "amarillo",
+   "inicio": "2026-11-12T18:00:00+01:00",
+   "fin": "2026-11-12T23:59:00+01:00"
+  },
+  {
    "region": "Galicia",
    "zona": "Miño de Pontevedra",
    "fenomeno": "Lluvias",
@@ -355,6 +363,14 @@
    "nivel": "amarillo",
    "inicio": "2026-11-12T18:00:00+01:00",
    "fin": "2026-11-13T07:59:00+01:00"
+  },
+  {
+   "region": "Castilla y León",
+   "zona": "Sanabria",
+   "fenomeno": "Lluvias",
+   "nivel": "amarillo",
+   "inicio": "2026-11-12T18:00:00+01:00",
+   "fin": "2026-11-13T11:59:00+01:00"
   },
   {
    "region": "Galicia",
