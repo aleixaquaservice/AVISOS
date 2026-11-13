@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-11-13T02:28:49+01:00",
+ "actualizado": "2026-11-13T04:05:09+01:00",
  "fuentes": {
   "Andalucía": "2026-11-12T22:50:02+00:00",
   "Aragón": "2026-11-12T22:50:02+00:00",
@@ -62,14 +62,6 @@
   },
   {
    "region": "Illes Balears",
-   "zona": "Menorca",
-   "fenomeno": "Vientos",
-   "nivel": "amarillo",
-   "inicio": "2026-11-12T10:00:00+01:00",
-   "fin": "2026-11-13T03:59:00+01:00"
-  },
-  {
-   "region": "Illes Balears",
    "zona": "Norte y nordeste de Mallorca",
    "fenomeno": "Costeros",
    "nivel": "amarillo",
@@ -107,22 +99,6 @@
    "nivel": "amarillo",
    "inicio": "2026-11-12T10:00:00+01:00",
    "fin": "2026-11-13T07:59:00+01:00"
-  },
-  {
-   "region": "Comunitat Valenciana",
-   "zona": "Litoral norte de Valencia",
-   "fenomeno": "Costeros",
-   "nivel": "amarillo",
-   "inicio": "2026-11-12T11:00:00+01:00",
-   "fin": "2026-11-13T02:59:00+01:00"
-  },
-  {
-   "region": "Comunitat Valenciana",
-   "zona": "Litoral sur de Valencia",
-   "fenomeno": "Costeros",
-   "nivel": "amarillo",
-   "inicio": "2026-11-12T11:00:00+01:00",
-   "fin": "2026-11-13T02:59:00+01:00"
   },
   {
    "region": "Galicia",
@@ -227,22 +203,6 @@
    "nivel": "amarillo",
    "inicio": "2026-11-12T19:00:00+01:00",
    "fin": "2026-11-13T07:59:00+01:00"
-  },
-  {
-   "region": "País Vasco",
-   "zona": "Bizkaia litoral",
-   "fenomeno": "Lluvias",
-   "nivel": "amarillo",
-   "inicio": "2026-11-12T23:00:00+01:00",
-   "fin": "2026-11-13T02:59:00+01:00"
-  },
-  {
-   "region": "País Vasco",
-   "zona": "Gipuzkoa litoral",
-   "fenomeno": "Lluvias",
-   "nivel": "amarillo",
-   "inicio": "2026-11-12T23:00:00+01:00",
-   "fin": "2026-11-13T02:59:00+01:00"
   },
   {
    "region": "Illes Balears",
