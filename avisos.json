@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-11-13T04:05:09+01:00",
+ "actualizado": "2026-11-13T06:17:20+01:00",
  "fuentes": {
   "Andalucía": "2026-11-12T22:50:02+00:00",
   "Aragón": "2026-11-12T22:50:02+00:00",
@@ -71,26 +71,10 @@
   {
    "region": "Illes Balears",
    "zona": "Sierra Tramontana",
-   "fenomeno": "Costeros",
-   "nivel": "naranja",
-   "inicio": "2026-11-12T10:00:00+01:00",
-   "fin": "2026-11-13T05:59:00+01:00"
-  },
-  {
-   "region": "Illes Balears",
-   "zona": "Sierra Tramontana",
    "fenomeno": "Vientos",
    "nivel": "amarillo",
    "inicio": "2026-11-12T10:00:00+01:00",
    "fin": "2026-11-13T07:59:00+01:00"
-  },
-  {
-   "region": "Illes Balears",
-   "zona": "Sur de Mallorca",
-   "fenomeno": "Costeros",
-   "nivel": "naranja",
-   "inicio": "2026-11-12T10:00:00+01:00",
-   "fin": "2026-11-13T05:59:00+01:00"
   },
   {
    "region": "Illes Balears",
