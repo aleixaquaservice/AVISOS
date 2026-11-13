@@ -1,208 +1,259 @@
 {
- "actualizado": "2026-11-13T08:38:47+01:00",
+ "actualizado": "2026-11-13T09:17:27+01:00",
+ "origen": "opendata",
  "fuentes": {
-  "Andalucía": "2026-11-12T22:50:02+00:00",
-  "Aragón": "2026-11-12T22:50:02+00:00",
-  "Asturias": "2026-11-12T22:50:02+00:00",
-  "Illes Balears": "2026-11-12T22:50:02+00:00",
-  "Canarias": "2026-11-12T22:50:02+00:00",
-  "Cantabria": "2026-11-12T22:50:02+00:00",
-  "Castilla y León": "2026-11-12T22:50:02+00:00",
-  "Castilla-La Mancha": "2026-11-12T22:50:02+00:00",
-  "Cataluña": "2026-11-12T22:50:02+00:00",
-  "Extremadura": "2026-11-12T22:50:02+00:00",
-  "Galicia": "2026-11-13T06:59:04+00:00",
-  "Comunidad de Madrid": "2026-11-12T22:50:02+00:00",
-  "Región de Murcia": "2026-11-12T22:50:02+00:00",
-  "Navarra": "2026-11-12T22:50:02+00:00",
-  "País Vasco": "2026-11-12T22:50:02+00:00",
-  "La Rioja": "2026-11-12T22:50:02+00:00",
-  "Comunitat Valenciana": "2026-11-12T22:50:02+00:00"
+  "Andalucía": "2026-11-13T08:17:27+00:00",
+  "Aragón": "2026-11-13T08:17:27+00:00",
+  "Asturias": "2026-11-13T08:17:27+00:00",
+  "Illes Balears": "2026-11-13T08:17:27+00:00",
+  "Canarias": "2026-11-13T08:17:27+00:00",
+  "Cantabria": "2026-11-13T08:17:27+00:00",
+  "Castilla y León": "2026-11-13T08:17:27+00:00",
+  "Castilla-La Mancha": "2026-11-13T08:17:27+00:00",
+  "Cataluña": "2026-11-13T08:17:27+00:00",
+  "Extremadura": "2026-11-13T08:17:27+00:00",
+  "Galicia": "2026-11-13T08:17:27+00:00",
+  "Comunidad de Madrid": "2026-11-13T08:17:27+00:00",
+  "Región de Murcia": "2026-11-13T08:17:27+00:00",
+  "Navarra": "2026-11-13T08:17:27+00:00",
+  "País Vasco": "2026-11-13T08:17:27+00:00",
+  "La Rioja": "2026-11-13T08:17:27+00:00",
+  "Comunitat Valenciana": "2026-11-13T08:17:27+00:00"
  },
  "avisos": [
   {
    "region": "Illes Balears",
-   "zona": "Ibiza y Formentera",
+   "zona": "Costa - Ibiza y Formentera",
+   "codigo": "645301C",
    "fenomeno": "Costeros",
    "nivel": "amarillo",
    "inicio": "2026-11-12T10:00:00+01:00",
-   "fin": "2026-11-13T10:59:00+01:00"
+   "fin": "2026-11-13T10:59:59+01:00"
   },
   {
    "region": "Illes Balears",
-   "zona": "Norte y nordeste de Mallorca",
+   "zona": "Costa - Norte y nordeste de Mallorca",
+   "codigo": "645402C",
    "fenomeno": "Costeros",
    "nivel": "amarillo",
    "inicio": "2026-11-12T10:00:00+01:00",
-   "fin": "2026-11-13T10:59:00+01:00"
-  },
-  {
-   "region": "Castilla y León",
-   "zona": "Sanabria",
-   "fenomeno": "Lluvias",
-   "nivel": "amarillo",
-   "inicio": "2026-11-12T18:00:00+01:00",
-   "fin": "2026-11-13T11:59:00+01:00"
-  },
-  {
-   "region": "Illes Balears",
-   "zona": "Levante mallorquín",
-   "fenomeno": "Costeros",
-   "nivel": "amarillo",
-   "inicio": "2026-11-13T00:00:00+01:00",
-   "fin": "2026-11-13T10:59:00+01:00"
-  },
-  {
-   "region": "Illes Balears",
-   "zona": "Menorca",
-   "fenomeno": "Costeros",
-   "nivel": "amarillo",
-   "inicio": "2026-11-13T00:00:00+01:00",
-   "fin": "2026-11-13T10:59:00+01:00"
-  },
-  {
-   "region": "Cataluña",
-   "zona": "Ampurdán",
-   "fenomeno": "Costeros",
-   "nivel": "amarillo",
-   "inicio": "2026-11-13T02:00:00+01:00",
-   "fin": "2026-11-13T11:59:00+01:00"
-  },
-  {
-   "region": "Illes Balears",
-   "zona": "Sierra Tramontana",
-   "fenomeno": "Costeros",
-   "nivel": "amarillo",
-   "inicio": "2026-11-13T06:00:00+01:00",
-   "fin": "2026-11-13T10:59:00+01:00"
-  },
-  {
-   "region": "Illes Balears",
-   "zona": "Sur de Mallorca",
-   "fenomeno": "Costeros",
-   "nivel": "amarillo",
-   "inicio": "2026-11-13T06:00:00+01:00",
-   "fin": "2026-11-13T11:59:00+01:00"
-  },
-  {
-   "region": "Galicia",
-   "zona": "Interior de A Coruña",
-   "fenomeno": "Lluvias",
-   "nivel": "amarillo",
-   "inicio": "2026-11-13T07:00:00+01:00",
-   "fin": "2026-11-13T11:59:00+01:00"
-  },
-  {
-   "region": "Galicia",
-   "zona": "Interior de Pontevedra",
-   "fenomeno": "Lluvias",
-   "nivel": "amarillo",
-   "inicio": "2026-11-13T07:00:00+01:00",
-   "fin": "2026-11-13T11:59:00+01:00"
-  },
-  {
-   "region": "Galicia",
-   "zona": "Miño de Ourense",
-   "fenomeno": "Lluvias",
-   "nivel": "amarillo",
-   "inicio": "2026-11-13T07:00:00+01:00",
-   "fin": "2026-11-13T11:59:00+01:00"
-  },
-  {
-   "region": "Galicia",
-   "zona": "Miño de Pontevedra",
-   "fenomeno": "Lluvias",
-   "nivel": "amarillo",
-   "inicio": "2026-11-13T07:00:00+01:00",
-   "fin": "2026-11-13T11:59:00+01:00"
+   "fin": "2026-11-13T10:59:59+01:00"
   },
   {
    "region": "Galicia",
    "zona": "Montaña de Ourense",
+   "codigo": "713204",
    "fenomeno": "Lluvias",
    "nivel": "amarillo",
-   "inicio": "2026-11-13T07:00:00+01:00",
-   "fin": "2026-11-13T11:59:00+01:00"
+   "inicio": "2026-11-12T18:00:00+01:00",
+   "fin": "2026-11-13T11:59:59+01:00"
   },
   {
-   "region": "Galicia",
-   "zona": "Noroeste de Ourense",
+   "region": "Castilla y León",
+   "zona": "Sanabria",
+   "codigo": "674901",
    "fenomeno": "Lluvias",
    "nivel": "amarillo",
-   "inicio": "2026-11-13T07:00:00+01:00",
-   "fin": "2026-11-13T11:59:00+01:00"
-  },
-  {
-   "region": "Galicia",
-   "zona": "Rias Baixas",
-   "fenomeno": "Lluvias",
-   "nivel": "amarillo",
-   "inicio": "2026-11-13T07:00:00+01:00",
-   "fin": "2026-11-13T11:59:00+01:00"
+   "inicio": "2026-11-12T18:00:00+01:00",
+   "fin": "2026-11-13T11:59:59+01:00"
   },
   {
    "region": "Galicia",
    "zona": "Sur de Ourense",
+   "codigo": "713203",
    "fenomeno": "Lluvias",
    "nivel": "amarillo",
-   "inicio": "2026-11-13T07:00:00+01:00",
-   "fin": "2026-11-13T11:59:00+01:00"
+   "inicio": "2026-11-12T18:00:00+01:00",
+   "fin": "2026-11-13T11:59:59+01:00"
   },
   {
-   "region": "Galicia",
-   "zona": "Suroeste de A Coruña",
-   "fenomeno": "Lluvias",
+   "region": "Illes Balears",
+   "zona": "Costa - Levante mallorquín",
+   "codigo": "645405C",
+   "fenomeno": "Costeros",
    "nivel": "amarillo",
-   "inicio": "2026-11-13T07:00:00+01:00",
-   "fin": "2026-11-13T11:59:00+01:00"
+   "inicio": "2026-11-13T00:00:00+01:00",
+   "fin": "2026-11-13T10:59:59+01:00"
+  },
+  {
+   "region": "Illes Balears",
+   "zona": "Costa - Menorca",
+   "codigo": "645501C",
+   "fenomeno": "Costeros",
+   "nivel": "amarillo",
+   "inicio": "2026-11-13T00:00:00+01:00",
+   "fin": "2026-11-13T10:59:59+01:00"
+  },
+  {
+   "region": "Cataluña",
+   "zona": "Costa - Ampurdán",
+   "codigo": "691703C",
+   "fenomeno": "Costeros",
+   "nivel": "amarillo",
+   "inicio": "2026-11-13T02:00:00+01:00",
+   "fin": "2026-11-13T11:59:59+01:00"
+  },
+  {
+   "region": "Illes Balears",
+   "zona": "Costa - Sierra Tramontana",
+   "codigo": "645401C",
+   "fenomeno": "Costeros",
+   "nivel": "amarillo",
+   "inicio": "2026-11-13T06:00:00+01:00",
+   "fin": "2026-11-13T10:59:59+01:00"
+  },
+  {
+   "region": "Illes Balears",
+   "zona": "Costa - Sur de Mallorca",
+   "codigo": "645404C",
+   "fenomeno": "Costeros",
+   "nivel": "amarillo",
+   "inicio": "2026-11-13T06:00:00+01:00",
+   "fin": "2026-11-13T11:59:59+01:00"
   },
   {
    "region": "Galicia",
    "zona": "Interior de A Coruña",
+   "codigo": "711503",
    "fenomeno": "Lluvias",
    "nivel": "amarillo",
-   "inicio": "2026-11-15T00:00:00+01:00",
-   "fin": "2026-11-15T17:59:00+01:00"
+   "inicio": "2026-11-13T07:00:00+01:00",
+   "fin": "2026-11-13T11:59:59+01:00"
   },
   {
    "region": "Galicia",
    "zona": "Interior de Pontevedra",
+   "codigo": "713602",
    "fenomeno": "Lluvias",
    "nivel": "amarillo",
-   "inicio": "2026-11-15T00:00:00+01:00",
-   "fin": "2026-11-15T17:59:00+01:00"
+   "inicio": "2026-11-13T07:00:00+01:00",
+   "fin": "2026-11-13T11:59:59+01:00"
+  },
+  {
+   "region": "Galicia",
+   "zona": "Miño de Ourense",
+   "codigo": "713202",
+   "fenomeno": "Lluvias",
+   "nivel": "amarillo",
+   "inicio": "2026-11-13T07:00:00+01:00",
+   "fin": "2026-11-13T11:59:59+01:00"
   },
   {
    "region": "Galicia",
    "zona": "Miño de Pontevedra",
+   "codigo": "713603",
    "fenomeno": "Lluvias",
    "nivel": "amarillo",
-   "inicio": "2026-11-15T00:00:00+01:00",
-   "fin": "2026-11-15T17:59:00+01:00"
+   "inicio": "2026-11-13T07:00:00+01:00",
+   "fin": "2026-11-13T11:59:59+01:00"
   },
   {
    "region": "Galicia",
    "zona": "Noroeste de Ourense",
+   "codigo": "713201",
    "fenomeno": "Lluvias",
    "nivel": "amarillo",
-   "inicio": "2026-11-15T00:00:00+01:00",
-   "fin": "2026-11-15T17:59:00+01:00"
+   "inicio": "2026-11-13T07:00:00+01:00",
+   "fin": "2026-11-13T11:59:59+01:00"
   },
   {
    "region": "Galicia",
    "zona": "Rias Baixas",
+   "codigo": "713601",
    "fenomeno": "Lluvias",
    "nivel": "amarillo",
-   "inicio": "2026-11-15T00:00:00+01:00",
-   "fin": "2026-11-15T17:59:00+01:00"
+   "inicio": "2026-11-13T07:00:00+01:00",
+   "fin": "2026-11-13T11:59:59+01:00"
   },
   {
    "region": "Galicia",
    "zona": "Suroeste de A Coruña",
+   "codigo": "711504",
+   "fenomeno": "Lluvias",
+   "nivel": "amarillo",
+   "inicio": "2026-11-13T07:00:00+01:00",
+   "fin": "2026-11-13T11:59:59+01:00"
+  },
+  {
+   "region": "Extremadura",
+   "zona": "Norte de Cáceres",
+   "codigo": "701001",
+   "fenomeno": "Lluvias",
+   "nivel": "amarillo",
+   "inicio": "2026-11-13T12:00:00+01:00",
+   "fin": "2026-11-13T23:59:59+01:00"
+  },
+  {
+   "region": "Castilla y León",
+   "zona": "Sur de Salamanca",
+   "codigo": "673703",
+   "fenomeno": "Lluvias",
+   "nivel": "amarillo",
+   "inicio": "2026-11-13T12:00:00+01:00",
+   "fin": "2026-11-13T23:59:59+01:00"
+  },
+  {
+   "region": "Castilla y León",
+   "zona": "Sur de Ávila",
+   "codigo": "670503",
+   "fenomeno": "Lluvias",
+   "nivel": "amarillo",
+   "inicio": "2026-11-13T12:00:00+01:00",
+   "fin": "2026-11-13T23:59:59+01:00"
+  },
+  {
+   "region": "Galicia",
+   "zona": "Interior de A Coruña",
+   "codigo": "711503",
    "fenomeno": "Lluvias",
    "nivel": "amarillo",
    "inicio": "2026-11-15T00:00:00+01:00",
-   "fin": "2026-11-15T17:59:00+01:00"
+   "fin": "2026-11-15T17:59:59+01:00"
+  },
+  {
+   "region": "Galicia",
+   "zona": "Interior de Pontevedra",
+   "codigo": "713602",
+   "fenomeno": "Lluvias",
+   "nivel": "amarillo",
+   "inicio": "2026-11-15T00:00:00+01:00",
+   "fin": "2026-11-15T17:59:59+01:00"
+  },
+  {
+   "region": "Galicia",
+   "zona": "Miño de Pontevedra",
+   "codigo": "713603",
+   "fenomeno": "Lluvias",
+   "nivel": "amarillo",
+   "inicio": "2026-11-15T00:00:00+01:00",
+   "fin": "2026-11-15T17:59:59+01:00"
+  },
+  {
+   "region": "Galicia",
+   "zona": "Noroeste de Ourense",
+   "codigo": "713201",
+   "fenomeno": "Lluvias",
+   "nivel": "amarillo",
+   "inicio": "2026-11-15T00:00:00+01:00",
+   "fin": "2026-11-15T17:59:59+01:00"
+  },
+  {
+   "region": "Galicia",
+   "zona": "Rias Baixas",
+   "codigo": "713601",
+   "fenomeno": "Lluvias",
+   "nivel": "amarillo",
+   "inicio": "2026-11-15T00:00:00+01:00",
+   "fin": "2026-11-15T17:59:59+01:00"
+  },
+  {
+   "region": "Galicia",
+   "zona": "Suroeste de A Coruña",
+   "codigo": "711504",
+   "fenomeno": "Lluvias",
+   "nivel": "amarillo",
+   "inicio": "2026-11-15T00:00:00+01:00",
+   "fin": "2026-11-15T17:59:59+01:00"
   }
  ]
 }
