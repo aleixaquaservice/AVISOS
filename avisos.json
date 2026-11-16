@@ -1,25 +1,25 @@
 {
- "actualizado": "2026-11-16T20:15:10+01:00",
+ "actualizado": "2026-11-16T21:12:02+01:00",
  "origen": "opendata",
  "fuentes": {
-  "Andalucía": "2026-11-16T19:15:10+00:00",
-  "Aragón": "2026-11-16T19:15:10+00:00",
-  "Asturias": "2026-11-16T19:15:10+00:00",
-  "Illes Balears": "2026-11-16T19:15:10+00:00",
-  "Canarias": "2026-11-16T19:15:10+00:00",
-  "Cantabria": "2026-11-16T19:15:10+00:00",
-  "Castilla y León": "2026-11-16T19:15:10+00:00",
-  "Castilla-La Mancha": "2026-11-16T19:15:10+00:00",
-  "Cataluña": "2026-11-16T19:15:10+00:00",
-  "Extremadura": "2026-11-16T19:15:10+00:00",
-  "Galicia": "2026-11-16T19:15:10+00:00",
-  "Comunidad de Madrid": "2026-11-16T19:15:10+00:00",
-  "Región de Murcia": "2026-11-16T19:15:10+00:00",
-  "Navarra": "2026-11-16T19:15:10+00:00",
-  "País Vasco": "2026-11-16T19:15:10+00:00",
-  "La Rioja": "2026-11-16T19:15:10+00:00",
-  "Comunitat Valenciana": "2026-11-16T19:15:10+00:00",
-  "Portugal": "2026-11-16T19:15:10+00:00"
+  "Andalucía": "2026-11-16T20:12:02+00:00",
+  "Aragón": "2026-11-16T20:12:02+00:00",
+  "Asturias": "2026-11-16T20:12:02+00:00",
+  "Illes Balears": "2026-11-16T20:12:02+00:00",
+  "Canarias": "2026-11-16T20:12:02+00:00",
+  "Cantabria": "2026-11-16T20:12:02+00:00",
+  "Castilla y León": "2026-11-16T20:12:02+00:00",
+  "Castilla-La Mancha": "2026-11-16T20:12:02+00:00",
+  "Cataluña": "2026-11-16T20:12:02+00:00",
+  "Extremadura": "2026-11-16T20:12:02+00:00",
+  "Galicia": "2026-11-16T20:12:02+00:00",
+  "Comunidad de Madrid": "2026-11-16T20:12:02+00:00",
+  "Región de Murcia": "2026-11-16T20:12:02+00:00",
+  "Navarra": "2026-11-16T20:12:02+00:00",
+  "País Vasco": "2026-11-16T20:12:02+00:00",
+  "La Rioja": "2026-11-16T20:12:02+00:00",
+  "Comunitat Valenciana": "2026-11-16T20:12:02+00:00",
+  "Portugal": "2026-11-16T20:12:02+00:00"
  },
  "zonas": {
   "691703C": {
@@ -9735,15 +9735,6 @@
    "fin": "2026-11-17T06:59:59+01:00"
   },
   {
-   "region": "Portugal",
-   "zona": "Aveiro",
-   "codigo": "AVR",
-   "fenomeno": "Lluvias",
-   "nivel": "amarillo",
-   "inicio": "2026-11-16T18:00:00+00:00",
-   "fin": "2026-11-17T06:00:00+00:00"
-  },
-  {
    "region": "Galicia",
    "zona": "Costa - A Mariña",
    "codigo": "712701C",
@@ -9754,11 +9745,20 @@
   },
   {
    "region": "Portugal",
+   "zona": "Aveiro",
+   "codigo": "AVR",
+   "fenomeno": "Lluvias",
+   "nivel": "amarillo",
+   "inicio": "2026-11-16T19:16:00+00:00",
+   "fin": "2026-11-17T06:00:00+00:00"
+  },
+  {
+   "region": "Portugal",
    "zona": "Porto",
    "codigo": "PTO",
    "fenomeno": "Lluvias",
    "nivel": "amarillo",
-   "inicio": "2026-11-16T18:00:00+00:00",
+   "inicio": "2026-11-16T19:16:00+00:00",
    "fin": "2026-11-17T06:00:00+00:00"
   },
   {
@@ -10092,7 +10092,7 @@
    "fenomeno": "Costeros",
    "nivel": "amarillo",
    "inicio": "2026-11-18T06:00:00+00:00",
-   "fin": "2026-11-19T07:00:00+00:00"
+   "fin": "2026-11-19T19:00:00+00:00"
   },
   {
    "region": "Galicia",
@@ -10164,7 +10164,25 @@
    "fenomeno": "Costeros",
    "nivel": "amarillo",
    "inicio": "2026-11-18T12:00:00+00:00",
-   "fin": "2026-11-19T07:00:00+00:00"
+   "fin": "2026-11-19T19:00:00+00:00"
+  },
+  {
+   "region": "Portugal",
+   "zona": "Leiria",
+   "codigo": "LRA",
+   "fenomeno": "Lluvias",
+   "nivel": "amarillo",
+   "inicio": "2026-11-18T12:00:00+00:00",
+   "fin": "2026-11-18T18:00:00+00:00"
+  },
+  {
+   "region": "Portugal",
+   "zona": "Santarém",
+   "codigo": "STM",
+   "fenomeno": "Lluvias",
+   "nivel": "amarillo",
+   "inicio": "2026-11-18T12:00:00+00:00",
+   "fin": "2026-11-18T18:00:00+00:00"
   },
   {
    "region": "Portugal",
@@ -10173,7 +10191,7 @@
    "fenomeno": "Costeros",
    "nivel": "amarillo",
    "inicio": "2026-11-18T12:00:00+00:00",
-   "fin": "2026-11-19T07:00:00+00:00"
+   "fin": "2026-11-19T19:00:00+00:00"
   },
   {
    "region": "Cantabria",
@@ -10209,7 +10227,7 @@
    "fenomeno": "Costeros",
    "nivel": "naranja",
    "inicio": "2026-11-18T18:00:00+00:00",
-   "fin": "2026-11-19T07:00:00+00:00"
+   "fin": "2026-11-19T19:00:00+00:00"
   },
   {
    "region": "Portugal",
@@ -10218,7 +10236,7 @@
    "fenomeno": "Costeros",
    "nivel": "naranja",
    "inicio": "2026-11-18T18:00:00+00:00",
-   "fin": "2026-11-19T07:00:00+00:00"
+   "fin": "2026-11-19T19:00:00+00:00"
   },
   {
    "region": "Portugal",
@@ -10227,7 +10245,7 @@
    "fenomeno": "Costeros",
    "nivel": "naranja",
    "inicio": "2026-11-18T18:00:00+00:00",
-   "fin": "2026-11-19T07:00:00+00:00"
+   "fin": "2026-11-19T19:00:00+00:00"
   },
   {
    "region": "País Vasco",
