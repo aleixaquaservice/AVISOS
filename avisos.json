@@ -1,25 +1,25 @@
 {
- "actualizado": "2026-11-18T02:35:57+01:00",
+ "actualizado": "2026-11-18T04:06:24+01:00",
  "origen": "opendata",
  "fuentes": {
-  "Andalucía": "2026-11-18T01:35:57+00:00",
-  "Aragón": "2026-11-18T01:35:57+00:00",
-  "Asturias": "2026-11-18T01:35:57+00:00",
-  "Illes Balears": "2026-11-18T01:35:57+00:00",
-  "Canarias": "2026-11-18T01:35:57+00:00",
-  "Cantabria": "2026-11-18T01:35:57+00:00",
-  "Castilla y León": "2026-11-18T01:35:57+00:00",
-  "Castilla-La Mancha": "2026-11-18T01:35:57+00:00",
-  "Cataluña": "2026-11-18T01:35:57+00:00",
-  "Extremadura": "2026-11-18T01:35:57+00:00",
-  "Galicia": "2026-11-18T01:35:57+00:00",
-  "Comunidad de Madrid": "2026-11-18T01:35:57+00:00",
-  "Región de Murcia": "2026-11-18T01:35:57+00:00",
-  "Navarra": "2026-11-18T01:35:57+00:00",
-  "País Vasco": "2026-11-18T01:35:57+00:00",
-  "La Rioja": "2026-11-18T01:35:57+00:00",
-  "Comunitat Valenciana": "2026-11-18T01:35:57+00:00",
-  "Portugal": "2026-11-18T01:35:57+00:00"
+  "Andalucía": "2026-11-18T03:06:24+00:00",
+  "Aragón": "2026-11-18T03:06:24+00:00",
+  "Asturias": "2026-11-18T03:06:24+00:00",
+  "Illes Balears": "2026-11-18T03:06:24+00:00",
+  "Canarias": "2026-11-18T03:06:24+00:00",
+  "Cantabria": "2026-11-18T03:06:24+00:00",
+  "Castilla y León": "2026-11-18T03:06:24+00:00",
+  "Castilla-La Mancha": "2026-11-18T03:06:24+00:00",
+  "Cataluña": "2026-11-18T03:06:24+00:00",
+  "Extremadura": "2026-11-18T03:06:24+00:00",
+  "Galicia": "2026-11-18T03:06:24+00:00",
+  "Comunidad de Madrid": "2026-11-18T03:06:24+00:00",
+  "Región de Murcia": "2026-11-18T03:06:24+00:00",
+  "Navarra": "2026-11-18T03:06:24+00:00",
+  "País Vasco": "2026-11-18T03:06:24+00:00",
+  "La Rioja": "2026-11-18T03:06:24+00:00",
+  "Comunitat Valenciana": "2026-11-18T03:06:24+00:00",
+  "Portugal": "2026-11-18T03:06:24+00:00"
  },
  "zonas": {
   "713602": {
@@ -11733,39 +11733,12 @@
   },
   {
    "region": "Galicia",
-   "zona": "Costa - Miño de Pontevedra",
-   "codigo": "713603C",
-   "fenomeno": "Costeros",
-   "nivel": "amarillo",
-   "inicio": "2026-11-17T19:00:00+01:00",
-   "fin": "2026-11-18T03:59:59+01:00"
-  },
-  {
-   "region": "Galicia",
    "zona": "Costa - Noroeste de A Coruña",
    "codigo": "711501C",
    "fenomeno": "Costeros",
    "nivel": "naranja",
    "inicio": "2026-11-17T19:00:00+01:00",
    "fin": "2026-11-18T23:59:59+01:00"
-  },
-  {
-   "region": "Galicia",
-   "zona": "Costa - Rias Baixas",
-   "codigo": "713601C",
-   "fenomeno": "Costeros",
-   "nivel": "amarillo",
-   "inicio": "2026-11-17T19:00:00+01:00",
-   "fin": "2026-11-18T03:59:59+01:00"
-  },
-  {
-   "region": "Galicia",
-   "zona": "Costa - Suroeste de A Coruña",
-   "codigo": "711504C",
-   "fenomeno": "Costeros",
-   "nivel": "amarillo",
-   "inicio": "2026-11-17T19:00:00+01:00",
-   "fin": "2026-11-18T03:59:59+01:00"
   },
   {
    "region": "Galicia",
@@ -11891,7 +11864,7 @@
    "fenomeno": "Costeros",
    "nivel": "amarillo",
    "inicio": "2026-11-18T06:00:00+00:00",
-   "fin": "2026-11-20T07:00:00+00:00"
+   "fin": "2026-11-20T09:00:00+00:00"
   },
   {
    "region": "Portugal",
@@ -12116,7 +12089,7 @@
    "fenomeno": "Costeros",
    "nivel": "amarillo",
    "inicio": "2026-11-18T12:00:00+00:00",
-   "fin": "2026-11-20T07:00:00+00:00"
+   "fin": "2026-11-20T09:00:00+00:00"
   },
   {
    "region": "Portugal",
@@ -12125,7 +12098,7 @@
    "fenomeno": "Costeros",
    "nivel": "amarillo",
    "inicio": "2026-11-18T12:00:00+00:00",
-   "fin": "2026-11-20T07:00:00+00:00"
+   "fin": "2026-11-20T09:00:00+00:00"
   },
   {
    "region": "Castilla-La Mancha",
@@ -12287,7 +12260,7 @@
    "fenomeno": "Costeros",
    "nivel": "naranja",
    "inicio": "2026-11-18T18:00:00+00:00",
-   "fin": "2026-11-20T07:00:00+00:00"
+   "fin": "2026-11-20T00:00:00+00:00"
   },
   {
    "region": "Portugal",
@@ -12296,7 +12269,7 @@
    "fenomeno": "Costeros",
    "nivel": "naranja",
    "inicio": "2026-11-18T18:00:00+00:00",
-   "fin": "2026-11-20T07:00:00+00:00"
+   "fin": "2026-11-20T00:00:00+00:00"
   },
   {
    "region": "Portugal",
@@ -12305,7 +12278,7 @@
    "fenomeno": "Costeros",
    "nivel": "naranja",
    "inicio": "2026-11-18T18:00:00+00:00",
-   "fin": "2026-11-20T07:00:00+00:00"
+   "fin": "2026-11-20T00:00:00+00:00"
   },
   {
    "region": "Comunitat Valenciana",
@@ -12684,6 +12657,33 @@
    "nivel": "naranja",
    "inicio": "2026-11-20T00:00:00+01:00",
    "fin": "2026-11-20T14:59:59+01:00"
+  },
+  {
+   "region": "Portugal",
+   "zona": "Aveiro",
+   "codigo": "AVR",
+   "fenomeno": "Costeros",
+   "nivel": "amarillo",
+   "inicio": "2026-11-20T00:00:00+00:00",
+   "fin": "2026-11-20T12:00:00+00:00"
+  },
+  {
+   "region": "Portugal",
+   "zona": "Leiria",
+   "codigo": "LRA",
+   "fenomeno": "Costeros",
+   "nivel": "amarillo",
+   "inicio": "2026-11-20T00:00:00+00:00",
+   "fin": "2026-11-20T12:00:00+00:00"
+  },
+  {
+   "region": "Portugal",
+   "zona": "Porto",
+   "codigo": "PTO",
+   "fenomeno": "Costeros",
+   "nivel": "amarillo",
+   "inicio": "2026-11-20T00:00:00+00:00",
+   "fin": "2026-11-20T12:00:00+00:00"
   },
   {
    "region": "Galicia",
