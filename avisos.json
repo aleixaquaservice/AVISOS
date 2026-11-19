@@ -1,25 +1,25 @@
 {
- "actualizado": "2026-11-19T13:18:38+01:00",
+ "actualizado": "2026-11-19T15:27:27+01:00",
  "origen": "opendata",
  "fuentes": {
-  "Andalucía": "2026-11-19T12:18:38+00:00",
-  "Aragón": "2026-11-19T12:18:38+00:00",
-  "Asturias": "2026-11-19T12:18:38+00:00",
-  "Illes Balears": "2026-11-19T12:18:38+00:00",
-  "Canarias": "2026-11-19T12:18:38+00:00",
-  "Cantabria": "2026-11-19T12:18:38+00:00",
-  "Castilla y León": "2026-11-19T12:18:38+00:00",
-  "Castilla-La Mancha": "2026-11-19T12:18:38+00:00",
-  "Cataluña": "2026-11-19T12:18:38+00:00",
-  "Extremadura": "2026-11-19T12:18:38+00:00",
-  "Galicia": "2026-11-19T12:18:38+00:00",
-  "Comunidad de Madrid": "2026-11-19T12:18:38+00:00",
-  "Región de Murcia": "2026-11-19T12:18:38+00:00",
-  "Navarra": "2026-11-19T12:18:38+00:00",
-  "País Vasco": "2026-11-19T12:18:38+00:00",
-  "La Rioja": "2026-11-19T12:18:38+00:00",
-  "Comunitat Valenciana": "2026-11-19T12:18:38+00:00",
-  "Portugal": "2026-11-19T12:18:38+00:00"
+  "Andalucía": "2026-11-19T14:27:27+00:00",
+  "Aragón": "2026-11-19T14:27:27+00:00",
+  "Asturias": "2026-11-19T14:27:27+00:00",
+  "Illes Balears": "2026-11-19T14:27:27+00:00",
+  "Canarias": "2026-11-19T14:27:27+00:00",
+  "Cantabria": "2026-11-19T14:27:27+00:00",
+  "Castilla y León": "2026-11-19T14:27:27+00:00",
+  "Castilla-La Mancha": "2026-11-19T14:27:27+00:00",
+  "Cataluña": "2026-11-19T14:27:27+00:00",
+  "Extremadura": "2026-11-19T14:27:27+00:00",
+  "Galicia": "2026-11-19T14:27:27+00:00",
+  "Comunidad de Madrid": "2026-11-19T14:27:27+00:00",
+  "Región de Murcia": "2026-11-19T14:27:27+00:00",
+  "Navarra": "2026-11-19T14:27:27+00:00",
+  "País Vasco": "2026-11-19T14:27:27+00:00",
+  "La Rioja": "2026-11-19T14:27:27+00:00",
+  "Comunitat Valenciana": "2026-11-19T14:27:27+00:00",
+  "Portugal": "2026-11-19T14:27:27+00:00"
  },
  "zonas": {
   "663901C": {
@@ -3684,196 +3684,6 @@
     ]
    ]
   },
-  "694303C": {
-   "nombre": "Costa - Litoral norte de Tarragona",
-   "poligonos": [
-    [
-     [
-      41.2,
-      1.65
-     ],
-     [
-      40.97,
-      1.81
-     ],
-     [
-      40.89,
-      1.87
-     ],
-     [
-      40.76,
-      1.33
-     ],
-     [
-      41.07,
-      1.12
-     ],
-     [
-      41.06,
-      1.16
-     ],
-     [
-      41.09,
-      1.2
-     ],
-     [
-      41.13,
-      1.3
-     ],
-     [
-      41.13,
-      1.36
-     ],
-     [
-      41.18,
-      1.53
-     ],
-     [
-      41.2,
-      1.65
-     ]
-    ]
-   ]
-  },
-  "694304C": {
-   "nombre": "Costa - Litoral sur de Tarragona",
-   "poligonos": [
-    [
-     [
-      40.64,
-      0.73
-     ],
-     [
-      40.64,
-      0.74
-     ],
-     [
-      40.59,
-      0.71
-     ],
-     [
-      40.59,
-      0.67
-     ],
-     [
-      40.57,
-      0.6
-     ],
-     [
-      40.56,
-      0.65
-     ],
-     [
-      40.59,
-      0.71
-     ],
-     [
-      40.65,
-      0.77
-     ],
-     [
-      40.68,
-      0.84
-     ],
-     [
-      40.7,
-      0.88
-     ],
-     [
-      40.78,
-      0.78
-     ],
-     [
-      40.77,
-      0.73
-     ],
-     [
-      40.8,
-      0.7
-     ],
-     [
-      40.85,
-      0.75
-     ],
-     [
-      40.87,
-      0.79
-     ],
-     [
-      40.92,
-      0.84
-     ],
-     [
-      41.03,
-      0.97
-     ],
-     [
-      41.06,
-      1.05
-     ],
-     [
-      41.07,
-      1.12
-     ],
-     [
-      40.76,
-      1.33
-     ],
-     [
-      40.75,
-      1.31
-     ],
-     [
-      40.69,
-      1.32
-     ],
-     [
-      40.62,
-      1.3
-     ],
-     [
-      40.56,
-      1.28
-     ],
-     [
-      40.51,
-      1.23
-     ],
-     [
-      40.46,
-      1.18
-     ],
-     [
-      40.4,
-      1.07
-     ],
-     [
-      40.35,
-      1.01
-     ],
-     [
-      40.52,
-      0.55
-     ],
-     [
-      40.52,
-      0.52
-     ],
-     [
-      40.57,
-      0.54
-     ],
-     [
-      40.62,
-      0.6
-     ],
-     [
-      40.64,
-      0.73
-     ]
-    ]
-   ]
-  },
   "645301C": {
    "nombre": "Costa - Ibiza y Formentera",
    "poligonos": [
@@ -4221,147 +4031,6 @@
      [
       38.99,
       0.73
-     ]
-    ]
-   ]
-  },
-  "645301": {
-   "nombre": "Ibiza y Formentera",
-   "poligonos": [
-    [
-     [
-      38.97,
-      1.3
-     ],
-     [
-      39.0,
-      1.28
-     ],
-     [
-      39.03,
-      1.3
-     ],
-     [
-      39.07,
-      1.37
-     ],
-     [
-      39.08,
-      1.42
-     ],
-     [
-      39.1,
-      1.45
-     ],
-     [
-      39.12,
-      1.53
-     ],
-     [
-      39.09,
-      1.56
-     ],
-     [
-      39.09,
-      1.6
-     ],
-     [
-      39.06,
-      1.59
-     ],
-     [
-      39.03,
-      1.61
-     ],
-     [
-      38.99,
-      1.58
-     ],
-     [
-      38.98,
-      1.53
-     ],
-     [
-      38.95,
-      1.53
-     ],
-     [
-      38.91,
-      1.47
-     ],
-     [
-      38.92,
-      1.44
-     ],
-     [
-      38.89,
-      1.41
-     ],
-     [
-      38.85,
-      1.4
-     ],
-     [
-      38.83,
-      1.38
-     ],
-     [
-      38.87,
-      1.34
-     ],
-     [
-      38.86,
-      1.31
-     ],
-     [
-      38.88,
-      1.22
-     ],
-     [
-      38.91,
-      1.22
-     ],
-     [
-      38.94,
-      1.24
-     ],
-     [
-      38.96,
-      1.22
-     ],
-     [
-      38.97,
-      1.3
-     ]
-    ],
-    [
-     [
-      38.72,
-      1.41
-     ],
-     [
-      38.74,
-      1.44
-     ],
-     [
-      38.68,
-      1.48
-     ],
-     [
-      38.68,
-      1.44
-     ],
-     [
-      38.64,
-      1.4
-     ],
-     [
-      38.69,
-      1.38
-     ],
-     [
-      38.72,
-      1.41
      ]
     ]
    ]
@@ -4807,24 +4476,6 @@
   },
   {
    "region": "Cataluña",
-   "zona": "Costa - Litoral norte de Tarragona",
-   "codigo": "694303C",
-   "fenomeno": "Costeros",
-   "nivel": "amarillo",
-   "inicio": "2026-11-18T22:00:00+01:00",
-   "fin": "2026-11-19T13:59:59+01:00"
-  },
-  {
-   "region": "Cataluña",
-   "zona": "Costa - Litoral sur de Tarragona",
-   "codigo": "694304C",
-   "fenomeno": "Costeros",
-   "nivel": "amarillo",
-   "inicio": "2026-11-18T22:00:00+01:00",
-   "fin": "2026-11-19T13:59:59+01:00"
-  },
-  {
-   "region": "Cataluña",
    "zona": "Costa - Litoral de Barcelona",
    "codigo": "690804C",
    "fenomeno": "Costeros",
@@ -4840,60 +4491,6 @@
    "nivel": "amarillo",
    "inicio": "2026-11-19T07:00:00+01:00",
    "fin": "2026-11-19T17:59:59+01:00"
-  },
-  {
-   "region": "Illes Balears",
-   "zona": "Ibiza y Formentera",
-   "codigo": "645301",
-   "fenomeno": "Vientos",
-   "nivel": "amarillo",
-   "inicio": "2026-11-19T08:00:00+01:00",
-   "fin": "2026-11-19T13:59:59+01:00"
-  },
-  {
-   "region": "Portugal",
-   "zona": "Aveiro",
-   "codigo": "AVR",
-   "fenomeno": "Costeros",
-   "nivel": "naranja",
-   "inicio": "2026-11-19T07:54:00+00:00",
-   "fin": "2026-11-20T00:00:00+00:00"
-  },
-  {
-   "region": "Portugal",
-   "zona": "Faro",
-   "codigo": "FAR",
-   "fenomeno": "Costeros",
-   "nivel": "amarillo",
-   "inicio": "2026-11-19T07:54:00+00:00",
-   "fin": "2026-11-20T09:00:00+00:00"
-  },
-  {
-   "region": "Portugal",
-   "zona": "Leiria",
-   "codigo": "LRA",
-   "fenomeno": "Costeros",
-   "nivel": "naranja",
-   "inicio": "2026-11-19T07:54:00+00:00",
-   "fin": "2026-11-20T00:00:00+00:00"
-  },
-  {
-   "region": "Portugal",
-   "zona": "Porto",
-   "codigo": "PTO",
-   "fenomeno": "Costeros",
-   "nivel": "naranja",
-   "inicio": "2026-11-19T07:54:00+00:00",
-   "fin": "2026-11-20T00:00:00+00:00"
-  },
-  {
-   "region": "Portugal",
-   "zona": "Setúbal",
-   "codigo": "STB",
-   "fenomeno": "Costeros",
-   "nivel": "amarillo",
-   "inicio": "2026-11-19T07:54:00+00:00",
-   "fin": "2026-11-20T09:00:00+00:00"
   },
   {
    "region": "Galicia",
@@ -4996,11 +4593,56 @@
   },
   {
    "region": "Portugal",
+   "zona": "Aveiro",
+   "codigo": "AVR",
+   "fenomeno": "Costeros",
+   "nivel": "naranja",
+   "inicio": "2026-11-19T12:25:00+00:00",
+   "fin": "2026-11-20T00:00:00+00:00"
+  },
+  {
+   "region": "Portugal",
+   "zona": "Faro",
+   "codigo": "FAR",
+   "fenomeno": "Costeros",
+   "nivel": "amarillo",
+   "inicio": "2026-11-19T12:25:00+00:00",
+   "fin": "2026-11-20T09:00:00+00:00"
+  },
+  {
+   "region": "Portugal",
+   "zona": "Leiria",
+   "codigo": "LRA",
+   "fenomeno": "Costeros",
+   "nivel": "naranja",
+   "inicio": "2026-11-19T12:25:00+00:00",
+   "fin": "2026-11-20T00:00:00+00:00"
+  },
+  {
+   "region": "Portugal",
    "zona": "Lisboa",
    "codigo": "LSB",
    "fenomeno": "Costeros",
    "nivel": "amarillo",
-   "inicio": "2026-11-19T12:00:00+00:00",
+   "inicio": "2026-11-19T12:25:00+00:00",
+   "fin": "2026-11-20T09:00:00+00:00"
+  },
+  {
+   "region": "Portugal",
+   "zona": "Porto",
+   "codigo": "PTO",
+   "fenomeno": "Costeros",
+   "nivel": "naranja",
+   "inicio": "2026-11-19T12:25:00+00:00",
+   "fin": "2026-11-20T00:00:00+00:00"
+  },
+  {
+   "region": "Portugal",
+   "zona": "Setúbal",
+   "codigo": "STB",
+   "fenomeno": "Costeros",
+   "nivel": "amarillo",
+   "inicio": "2026-11-19T12:25:00+00:00",
    "fin": "2026-11-20T09:00:00+00:00"
   },
   {
@@ -5191,6 +4833,15 @@
    "nivel": "amarillo",
    "inicio": "2026-11-20T22:00:00+01:00",
    "fin": "2026-11-20T23:59:59+01:00"
+  },
+  {
+   "region": "Portugal",
+   "zona": "Porto",
+   "codigo": "PTO",
+   "fenomeno": "Lluvias",
+   "nivel": "amarillo",
+   "inicio": "2026-11-20T21:00:00+00:00",
+   "fin": "2026-11-21T06:00:00+00:00"
   },
   {
    "region": "Galicia",
@@ -5353,6 +5004,78 @@
    "nivel": "amarillo",
    "inicio": "2026-11-21T00:00:00+01:00",
    "fin": "2026-11-21T21:59:59+01:00"
+  },
+  {
+   "region": "Portugal",
+   "zona": "Aveiro",
+   "codigo": "AVR",
+   "fenomeno": "Lluvias",
+   "nivel": "amarillo",
+   "inicio": "2026-11-21T03:00:00+00:00",
+   "fin": "2026-11-21T06:00:00+00:00"
+  },
+  {
+   "region": "Portugal",
+   "zona": "Guarda",
+   "codigo": "GDA",
+   "fenomeno": "Lluvias",
+   "nivel": "amarillo",
+   "inicio": "2026-11-21T03:00:00+00:00",
+   "fin": "2026-11-21T06:00:00+00:00"
+  },
+  {
+   "region": "Portugal",
+   "zona": "Aveiro",
+   "codigo": "AVR",
+   "fenomeno": "Lluvias",
+   "nivel": "naranja",
+   "inicio": "2026-11-21T06:00:00+00:00",
+   "fin": "2026-11-21T18:00:00+00:00"
+  },
+  {
+   "region": "Portugal",
+   "zona": "Guarda",
+   "codigo": "GDA",
+   "fenomeno": "Lluvias",
+   "nivel": "naranja",
+   "inicio": "2026-11-21T06:00:00+00:00",
+   "fin": "2026-11-21T18:00:00+00:00"
+  },
+  {
+   "region": "Portugal",
+   "zona": "Leiria",
+   "codigo": "LRA",
+   "fenomeno": "Lluvias",
+   "nivel": "amarillo",
+   "inicio": "2026-11-21T06:00:00+00:00",
+   "fin": "2026-11-21T18:00:00+00:00"
+  },
+  {
+   "region": "Portugal",
+   "zona": "Porto",
+   "codigo": "PTO",
+   "fenomeno": "Lluvias",
+   "nivel": "naranja",
+   "inicio": "2026-11-21T06:00:00+00:00",
+   "fin": "2026-11-21T18:00:00+00:00"
+  },
+  {
+   "region": "Portugal",
+   "zona": "Santarém",
+   "codigo": "STM",
+   "fenomeno": "Lluvias",
+   "nivel": "amarillo",
+   "inicio": "2026-11-21T06:00:00+00:00",
+   "fin": "2026-11-21T18:00:00+00:00"
+  },
+  {
+   "region": "Portugal",
+   "zona": "Lisboa",
+   "codigo": "LSB",
+   "fenomeno": "Lluvias",
+   "nivel": "amarillo",
+   "inicio": "2026-11-21T12:00:00+00:00",
+   "fin": "2026-11-21T18:00:00+00:00"
   },
   {
    "region": "Galicia",
