@@ -1,25 +1,25 @@
 {
- "actualizado": "2026-11-22T05:11:42+01:00",
+ "actualizado": "2026-11-22T06:13:38+01:00",
  "origen": "opendata",
  "fuentes": {
-  "Andalucía": "2026-11-22T04:11:42+00:00",
-  "Aragón": "2026-11-22T04:11:42+00:00",
-  "Asturias": "2026-11-22T04:11:42+00:00",
-  "Illes Balears": "2026-11-22T04:11:42+00:00",
-  "Canarias": "2026-11-22T04:11:42+00:00",
-  "Cantabria": "2026-11-22T04:11:42+00:00",
-  "Castilla y León": "2026-11-22T04:11:42+00:00",
-  "Castilla-La Mancha": "2026-11-22T04:11:42+00:00",
-  "Cataluña": "2026-11-22T04:11:42+00:00",
-  "Extremadura": "2026-11-22T04:11:42+00:00",
-  "Galicia": "2026-11-22T04:11:42+00:00",
-  "Comunidad de Madrid": "2026-11-22T04:11:42+00:00",
-  "Región de Murcia": "2026-11-22T04:11:42+00:00",
-  "Navarra": "2026-11-22T04:11:42+00:00",
-  "País Vasco": "2026-11-22T04:11:42+00:00",
-  "La Rioja": "2026-11-22T04:11:42+00:00",
-  "Comunitat Valenciana": "2026-11-22T04:11:42+00:00",
-  "Portugal": "2026-11-22T04:11:42+00:00"
+  "Andalucía": "2026-11-22T05:13:38+00:00",
+  "Aragón": "2026-11-22T05:13:38+00:00",
+  "Asturias": "2026-11-22T05:13:38+00:00",
+  "Illes Balears": "2026-11-22T05:13:38+00:00",
+  "Canarias": "2026-11-22T05:13:38+00:00",
+  "Cantabria": "2026-11-22T05:13:38+00:00",
+  "Castilla y León": "2026-11-22T05:13:38+00:00",
+  "Castilla-La Mancha": "2026-11-22T05:13:38+00:00",
+  "Cataluña": "2026-11-22T05:13:38+00:00",
+  "Extremadura": "2026-11-22T05:13:38+00:00",
+  "Galicia": "2026-11-22T05:13:38+00:00",
+  "Comunidad de Madrid": "2026-11-22T05:13:38+00:00",
+  "Región de Murcia": "2026-11-22T05:13:38+00:00",
+  "Navarra": "2026-11-22T05:13:38+00:00",
+  "País Vasco": "2026-11-22T05:13:38+00:00",
+  "La Rioja": "2026-11-22T05:13:38+00:00",
+  "Comunitat Valenciana": "2026-11-22T05:13:38+00:00",
+  "Portugal": "2026-11-22T05:13:38+00:00"
  },
  "zonas": {
   "770301": {
@@ -4990,24 +4990,6 @@
    "nivel": "naranja",
    "inicio": "2026-11-22T00:00:00+01:00",
    "fin": "2026-11-22T11:59:59+01:00"
-  },
-  {
-   "region": "Asturias",
-   "zona": "Costa - Litoral occidental asturiano",
-   "codigo": "633301C",
-   "fenomeno": "Costeros",
-   "nivel": "naranja",
-   "inicio": "2026-11-22T00:00:00+01:00",
-   "fin": "2026-11-22T05:59:59+01:00"
-  },
-  {
-   "region": "Asturias",
-   "zona": "Costa - Litoral oriental asturiano",
-   "codigo": "633302C",
-   "fenomeno": "Costeros",
-   "nivel": "naranja",
-   "inicio": "2026-11-22T00:00:00+01:00",
-   "fin": "2026-11-22T05:59:59+01:00"
   },
   {
    "region": "Galicia",
